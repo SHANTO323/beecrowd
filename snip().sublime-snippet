@@ -33,6 +33,8 @@ using namespace std;
 #define llv  			vector<ll>
 #define forA(v)			for(auto&i:v)
 #define forF(n0,n)		for(int i=n0;i<n;++i)
+#define geti(_) 		int _;cin >> _
+#define getll(__) 		ll __;cin >> __
 //*******TEMPLATES *******//
 template<typename T>void out(T x){cout << x << endl;}
 
